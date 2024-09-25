@@ -9,7 +9,7 @@ It is assumed that the workspace is `~/ros2_ws/`.
 cd ~/ros2_ws/src
 ```
 ``` r
-git clone https://github.com/sze-info/wag_gsz_kisfeladat
+git clone https://github.com/wdavid02/wag_gsz_kisfeladat
 ```
 
 ### Build ROS 2 packages
@@ -34,7 +34,7 @@ ros2 launch wag_gsz_kisfeladat launch_example1.launch.py
 
 # Delete this part if you are using it as a template
 
-ROS 2 pacage template, to get started, use template by clicking on the Green button labeled [`Use this template`](https://github.com/sze-info/wag_gsz_kisfeladat/generate) / [`Create new repository`](https://github.com/sze-info/wag_gsz_kisfeladat/generate). 
+ROS 2 pacage template, to get started, use template by clicking on the Green button labeled [`Use this template`](https://github.com/wdavid02/wag_gsz_kisfeladat/generate) / [`Create new repository`](https://github.com/wdavid02/wag_gsz_kisfeladat/generate). 
 
 <p align="center"><img src="img/use_this_template01.png" width="60%" /></p>
 
@@ -46,7 +46,7 @@ Let's assume
 Replace everything in the cloned repo:
 
 - `wag_gsz_kisfeladat` >> `cool_ros2_package` (the folder was already renamed after `Use this template`)
-- `sze-info` >> `mycoolusername`
+- `wdavid02` >> `mycoolusername`
 - find all `todo` strings and fill the blanks
 
 The easiest way is VS code:
