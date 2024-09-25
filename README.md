@@ -30,5 +30,6 @@ source ~/ros2_ws/install/setup.bash
 
 ``` r
 ros2 launch wag_gsz_kisfeladat launch_example1.launch.py
+
 ```
 Now `colcon build` your ROS 2 package and you can start wokring.
