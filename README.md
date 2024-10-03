@@ -55,7 +55,7 @@ rviz2
 
 ```
 <details>
-<summary> ==Error possibility==</summary>
+<summary> ##Error possibility</summary>
 
 ``` bash
 If you want to control the bot, the teleop pane must be active instead of Gazebo. Click there to activate it.
