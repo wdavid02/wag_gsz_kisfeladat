@@ -61,11 +61,3 @@ rviz2
 If you want to control the bot, the teleop pane must be active instead of Gazebo. Click there to activate it.
 ```
 </details>
-
-<details>
-<summary>The program in an image</summary>
-
-``` bash
-![The program structure](/block_diagram.png)
-```
-</details>
