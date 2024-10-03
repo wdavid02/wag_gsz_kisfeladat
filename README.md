@@ -43,9 +43,29 @@ ros2 launch wag_gsz_kisfeladat launch_sim.launch.py
 
 ```
 ### Control panel
-You'll be able to control the robot with your keyboard
+You'll be able to control the robot with your keyboard in the second pane
 ``` r
 ros2 run teleop_twist_keyboard teleop_twist_keyboard
 
 ```
+### Odometry
+In the third pane you can follow the odometry data of the robot in RVIZ2
+``` r
+rviz2
 
+```
+<details>
+<summary> ==Error possibility==</summary>
+
+``` bash
+If you want to control the bot, the teleop pane must be active instead of Gazebo. Click there to activate it.
+```
+</details>
+
+<details>
+<summary>The program in an image</summary>
+
+``` bash
+![The program structure](/block_diagram.png)
+```
+</details>
